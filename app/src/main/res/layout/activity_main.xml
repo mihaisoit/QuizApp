@@ -18,7 +18,7 @@
         android:gravity="center"
         android:text="Quiz App!"
         android:textColor="@color/white"
-        android:textSize="26sp"
+        android:textSize="27sp"
         android:textStyle="bold" />
 
     <com.google.android.material.card.MaterialCardView
